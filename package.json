@@ -2,6 +2,9 @@
   "name": "@grosboillotflo/test-package",
   "version": "0.1.0",
   "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specidied\" && exit 1"
+  },
   "repository": "git@github.com:GrosboillotFlo/test-package.git",
   "author": "Florian <grosboillotflo@aol.com>",
   "license": "MIT",
