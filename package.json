@@ -8,7 +8,6 @@
   "repository": "git@github.com:GrosboillotFlo/test-package.git",
   "author": "Florian <grosboillotflo@aol.com>",
   "license": "MIT",
-  "type": "module",
   "publishConfig": {
     "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
   }

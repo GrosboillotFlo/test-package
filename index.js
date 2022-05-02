@@ -1,3 +1,3 @@
-export const mimic = (userInput) => {
-  console.log(`${userInput}`)
+module.exports = function() {
+  console.log("This is Sparta");
 }
