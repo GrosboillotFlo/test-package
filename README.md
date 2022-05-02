@@ -9,18 +9,12 @@ Create/copy a Personnal Access Token (PAT) from GitHub and paste in `~/.npmrc`:
 //npm.pkg.github.com/:_authToken=<your_PAT>
 ```
 
-At the root:
+At the root of your project (where you will consume the package):
 
-```shell
-touch .nmprc
+```.npm
+// .npmrc
+@<owner_userName>:registry=https://npm.pkg.github.com
 ```
-
-then add to this file:
-
-```shell
-
-```
-
 
 ```shell
 yarn add @grosboillotflo/test-package
