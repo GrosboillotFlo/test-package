@@ -1,3 +1,3 @@
-module.exports = function() {
+const testFunc = () => {
   console.log("This is Sparta");
 }

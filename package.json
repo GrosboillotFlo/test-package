@@ -1,7 +1,8 @@
 {
   "name": "@grosboillotflo/test-package",
-  "version": "0.2.0",
-  "main": "index.js",
+  "version": "0.3.0",
+  "exports": "./index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specidied\" && exit 1"
   },
@@ -9,6 +10,6 @@
   "author": "Florian <grosboillotflo@aol.com>",
   "license": "MIT",
   "publishConfig": {
-    "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
+    "@grosboillotflo:registry": "https://npm.pkg.github.com"
   }
 }
