@@ -1,5 +1,5 @@
 {
-  "name": "@fewlinesco/test-package",
+  "name": "@grosboillotflo/test-package",
   "version": "1.1.1-46cf4391c581b3655113d4899374edaf632211ca",
   "exports": "./index.js",
   "type": "module",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specidied\" && exit 1",
     "updateVersion": "yarn version --new-version 1.1.1-$(git rev-parse HEAD)"
   },
-  "repository": "git@github.com:fewlinesco/sparta_courses.git",
+  "repository": "git@github.com:grosboillotflo/sparta_courses.git",
   "author": "Florian <grosboillotflo@aol.com>",
   "license": "MIT",
   "publishConfig": {

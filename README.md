@@ -5,7 +5,7 @@ A test for creating a package, using GitHub Package Registry
 
 ### Authenticate to GitHub Packages
 
-For more information, see ["Authentication to GitHub Packages"](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
+For more information, see ["Authentication to GitHub Packages - PAT"](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) and [GitHub Packages Registry](https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-npm-registry#authenticating-to-github-packages)
 
 ### In the same directory as your `package.json`, create or edit an `.npmrc` file:
 
