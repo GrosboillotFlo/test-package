@@ -1,12 +1,13 @@
 {
-  "name": "@grosboillotflo/test-package",
-  "version": "0.3.3",
+  "name": "@fewlinesco/test-package",
+  "version": "1.2.3",
   "exports": "./index.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specidied\" && exit 1"
+    "test": "echo \"Error: no test specidied\" && exit 1",
+    "getSHA": "git rev-parse HEAD | pbcopy"
   },
-  "repository": "git@github.com:GrosboillotFlo/test-package.git",
+  "repository": "git@github.com:fewlinesco/sparta_courses.git",
   "author": "Florian <grosboillotflo@aol.com>",
   "license": "MIT",
   "publishConfig": {
