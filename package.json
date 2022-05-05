@@ -1,12 +1,12 @@
 {
   "name": "@fewlinesco/test-package",
-  "version": "1.1.84a44927d2f584caae77960ec5757f4860db9b55",
+  "version": "1.1.56090a3637ac8e9daab53466fbed36a9228781af",
   "exports": "./index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specidied\" && exit 1",
     "getSHA": "git rev-parse HEAD | pbcopy",
-    "updateVersion": "yarn version --new-version $(git rev-parse HEAD)"
+    "updateVersion": "yarn version --new-version 1.1.$(git rev-parse HEAD)"
   },
   "repository": "git@github.com:fewlinesco/sparta_courses.git",
   "author": "Florian <grosboillotflo@aol.com>",
