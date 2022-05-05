@@ -1,6 +1,6 @@
 {
   "name": "@fewlinesco/test-package",
-  "version": "1.1.1-7f012dd7c84cc0aff9d768e96849ed7fe1020474",
+  "version": "1.1.1-46cf4391c581b3655113d4899374edaf632211ca",
   "exports": "./index.js",
   "type": "module",
   "scripts": {
